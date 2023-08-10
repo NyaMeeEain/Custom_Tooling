@@ -1,0 +1,10 @@
+C:\Users\NyaMeeEain\source\repos\Web Cradle\bin\Debug\Web_Cradle-With AMSI Patching.exe.config
+C:\Users\NyaMeeEain\source\repos\Web Cradle\bin\Debug\Web_Cradle-With AMSI Patching.exe
+C:\Users\NyaMeeEain\source\repos\Web Cradle\bin\Debug\Web_Cradle-With AMSI Patching.pdb
+C:\Users\NyaMeeEain\source\repos\Web Cradle\bin\Debug\System.Management.Automation.dll
+C:\Users\NyaMeeEain\source\repos\Web Cradle\obj\Debug\Web_Cradle-With AMSI Patching.csproj.AssemblyReference.cache
+C:\Users\NyaMeeEain\source\repos\Web Cradle\obj\Debug\Web_Cradle-With AMSI Patching.csproj.SuggestedBindingRedirects.cache
+C:\Users\NyaMeeEain\source\repos\Web Cradle\obj\Debug\Web_Cradle-With AMSI Patching.csproj.CoreCompileInputs.cache
+C:\Users\NyaMeeEain\source\repos\Web Cradle\obj\Debug\Web_Cradle-With AMSI Patching.csproj.CopyComplete
+C:\Users\NyaMeeEain\source\repos\Web Cradle\obj\Debug\Web_Cradle-With AMSI Patching.exe
+C:\Users\NyaMeeEain\source\repos\Web Cradle\obj\Debug\Web_Cradle-With AMSI Patching.pdb

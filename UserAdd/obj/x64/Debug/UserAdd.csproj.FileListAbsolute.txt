@@ -1,0 +1,8 @@
+C:\Users\NyaMeeEain\source\repos\UserAdd\bin\x64\Debug\UserAdd.exe.config
+C:\Users\NyaMeeEain\source\repos\UserAdd\bin\x64\Debug\UserAdd.exe
+C:\Users\NyaMeeEain\source\repos\UserAdd\bin\x64\Debug\UserAdd.pdb
+C:\Users\NyaMeeEain\source\repos\UserAdd\obj\x64\Debug\UserAdd.csproj.AssemblyReference.cache
+C:\Users\NyaMeeEain\source\repos\UserAdd\obj\x64\Debug\UserAdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\NyaMeeEain\source\repos\UserAdd\obj\x64\Debug\UserAdd.csproj.CoreCompileInputs.cache
+C:\Users\NyaMeeEain\source\repos\UserAdd\obj\x64\Debug\UserAdd.exe
+C:\Users\NyaMeeEain\source\repos\UserAdd\obj\x64\Debug\UserAdd.pdb

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.IO;
 
@@ -23,7 +23,7 @@ namespace CommandRunner
 
             Console.WriteLine($"Output saved to: {outputPath}");
             Console.WriteLine("Press any key to exit...");
-           
+            Console.ReadKey();
         }
 
         static void RunCommand(string command, StreamWriter writer)
@@ -51,14 +51,11 @@ namespace CommandRunner
             process.StandardInput.WriteLine(command);
             process.StandardInput.WriteLine("exit");
             string output = process.StandardOutput.ReadToEnd();
-            string errors = process.StandardError.ReadToEnd();
 
             process.WaitForExit();
 
             writer.WriteLine("Output:");
             writer.WriteLine(output);
-            writer.WriteLine("Errors:");
-            writer.WriteLine(errors);
             writer.WriteLine(new string('-', 80));
         }
     }

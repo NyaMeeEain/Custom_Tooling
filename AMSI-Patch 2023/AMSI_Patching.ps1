@@ -1,4 +1,4 @@
-# Function to obtain the address of a function from a module
+# Function to obtain the address
 function GetAddress {
     param (
         [string]$moduleName,
@@ -10,7 +10,7 @@ function GetAddress {
                         Where-Object { $_.GlobalAssemblyCache -and $_.Location.Split('\\')[-1].Equals('System.dll') }
     $assemblyType = $loadedAssemblies.GetType('Microsoft.Win32.UnsafeNativeMethods')
     
-    # Find and invoke GetProcAddress to get the function address
+    # Find and invoke GetProcAddress to get the function address from NTDLL
     $getProcAddressMethods = $assemblyType.GetMethods() | Where-Object { $_.Name -eq 'GetProcAddress' }
     $functionAddressList = @()
 

@@ -11,3 +11,5 @@ The CommandRunner program conducts local enumeration (e.g., services, network in
 ### UserAdd
 
 This program creates a local user and adds them to the local administrator group.
+
+### AMSI-Patch 2023

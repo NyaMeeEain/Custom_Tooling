@@ -6,10 +6,12 @@ I originally published Download Web Cradle With AMSI Patching without powershell
 (https://nyameeeain.medium.com/web-download-cradle-with-amsi-patching-without-powershell-exe-225c31f06e25).
 
 ### CommandRunner
-The CommandRunner program conducts local enumeration (e.g., services, network interfaces, permissions) and saves the output in the public folder, including timestamps for each command. Timestamps are for reporting purposes. 
+The CommandRunner program sequentially conducts local enumeration (e.g., services, network interfaces, local host enumeration, and service permissively and saves the output in the public folder, including timestamps for each command. Timestamps are for reporting purposes. 
 
 ### UserAdd
 
 This program creates a local user and adds them to the local administrator group.
 
 ### AMSI-Patch 2023
+I inspired the following blog to come out of this Powershell script.
+https://www.blazeinfosec.com/post/tearing-amsi-with-3-bytes/
